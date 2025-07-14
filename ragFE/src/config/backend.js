@@ -1,5 +1,5 @@
 export const BACKEND_CONFIG = {
-  BASE_URL: 'http://10.0.1.118:8000' ,
+  BASE_URL: 'https://rag-system3.onrender.com' ,
   ENDPOINTS: {
     UPLOAD_DOCUMENT: '/doc/upload',
     CHAT_QUERY: '/chat/query',
